@@ -828,8 +828,8 @@ For any queries, suggestions, or contributions, please contact:
 
 - **Name:** [Naman Singh]
 - **Email:** [namsingh419@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/naman-singh419?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub:** [Your GitHub Profile](https://https://github.com/NamanSingh69/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/naman-singh419?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub:** [GitHub Profile](https://https://github.com/NamanSingh69/)
 
 Feel free to reach out for collaboration opportunities or further discussions on stock return prediction and financial modeling.
 
