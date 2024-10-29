@@ -826,10 +826,10 @@ While the model demonstrates a strong R² score, the high MAPE underscores the n
 
 For any queries, suggestions, or contributions, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Name:** [Naman Singh]
+- **Email:** [namsingh419@example.com]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/naman-singh419?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub:** [Your GitHub Profile](https://https://github.com/NamanSingh69/)
 
 Feel free to reach out for collaboration opportunities or further discussions on stock return prediction and financial modeling.
 
