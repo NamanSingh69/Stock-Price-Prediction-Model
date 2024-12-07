@@ -767,7 +767,7 @@ pip install pandas numpy scikit-learn shap matplotlib joblib scipy
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/stock-return-prediction.git
+   git clone https://github.com/NamanSingh69/Stock-Price-Prediction-Model.git
    cd stock-return-prediction
    ```
 
